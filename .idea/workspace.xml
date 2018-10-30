@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b620b8eb-98b6-4a53-813b-b2021de176b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonDraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayDayUpQ.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,6 +12,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_student$DayDayUpQ1.coverage" NAME="DayDayUpQ1 Coverage Results" MODIFIED="1540910027733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_student$DayDayUpQ.coverage" NAME="DayDayUpQ Coverage Results" MODIFIED="1540911183080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_student$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1540722768949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_student$TempConvert.coverage" NAME="TempConvert Coverage Results" MODIFIED="1540566342184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -19,33 +21,34 @@
     <session id="1631696400">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.194" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.68" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="467" />
+          <entry key="py" value="864" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="467" />
+          <entry key="Python" value="864" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -61,11 +64,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonDraw.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
               <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DayDayUpQ.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+              <folding>
+                <marker date="1540911182996" expanded="true" signature="473:474" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,6 +102,8 @@
       <list>
         <option value="$PROJECT_DIR$/TempConvert.py" />
         <option value="$PROJECT_DIR$/PythonDraw.py" />
+        <option value="$PROJECT_DIR$/DayDayUpQ1.py" />
+        <option value="$PROJECT_DIR$/DayDayUpQ.py" />
       </list>
     </option>
   </component>
@@ -97,8 +114,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="653" />
-    <option name="y" value="3" />
+    <option name="x" value="864" />
+    <option name="y" value="36" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
@@ -114,41 +131,6 @@
             <path>
               <item name="python-student" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-student" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="python-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="python-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="110449663" type="70582d5e:PySkeletonsNode" />
-            </path>
-            <path>
-              <item name="python-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python-skeletons" type="51189727:PyUserSkeletonsNode" />
-            </path>
-            <path>
-              <item name="python-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python-skeletons" type="51189727:PyUserSkeletonsNode" />
-              <item name="os" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python-skeletons" type="51189727:PyUserSkeletonsNode" />
-              <item name="py" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,7 +157,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PythonDraw">
+  <component name="RunManager" selected="Python.DayDayUpQ">
+    <configuration name="DayDayUpQ" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-student" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DayDayUpQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DayDayUpQ1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-student" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\Python\WorkSpace\python-student\DayDayUpQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="PythonDraw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-student" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,9 +249,13 @@
     <list>
       <item itemvalue="Python.TempConvert" />
       <item itemvalue="Python.PythonDraw" />
+      <item itemvalue="Python.DayDayUpQ1" />
+      <item itemvalue="Python.DayDayUpQ" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DayDayUpQ" />
+        <item itemvalue="Python.DayDayUpQ1" />
         <item itemvalue="Python.PythonDraw" />
         <item itemvalue="Python.TempConvert" />
       </list>
@@ -245,14 +275,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="653" y="3" width="1400" height="820" extended-state="0" />
+    <frame x="842" y="46" width="1400" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26119402" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17462687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32944608" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32944608" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -271,12 +301,12 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26119402" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17462687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32944608" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32944608" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32944608" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,6 +347,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayDayUpQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <marker date="1540911182996" expanded="true" signature="473:474" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
